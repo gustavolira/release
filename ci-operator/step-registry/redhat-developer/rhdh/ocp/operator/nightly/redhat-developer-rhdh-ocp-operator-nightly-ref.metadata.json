@@ -3,12 +3,14 @@
 	"owners": {
 		"approvers": [
 			"josephca",
-			"subhashkhileri"
+			"subhashkhileri",
+			"gliraesi"
 		],
 		"reviewers": [
 			"albarbaro",
 			"josephca",
-			"subhashkhileri"
+			"subhashkhileri",
+			"gliraesi"
 		]
 	}
 }
